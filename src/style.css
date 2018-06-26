@@ -1,0 +1,81 @@
+*
+{
+    margin:0px auto;
+}
+
+.header{
+    margin-top:0px;
+    height:70px;
+    background-color:purple;
+    width:100%;
+    display:inline-block;
+}
+.logo{
+    float:left;
+    border:1px groove;
+    margin-left:30px;
+    width:150px;
+    }
+   
+
+.number{
+    /* float:left; */
+    height:40px;
+    margin-top:15px;
+    border:2px inset;
+    margin-right:20px;
+    box-sizing: border-box;
+    padding-left:20px;
+    width:150px;
+}
+.password{
+    padding-left:15px;
+    margin-top:15px;
+    height:40px;
+    border: 2px inset;
+    padding-left:20px;
+    width: 150px;
+    margin-right:20px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+    
+ }
+.enter {
+    margin-left:50px;
+    padding-left:10px;
+    float:right; 
+    display:inline-flex;
+    text-align:center; 
+  
+ } 
+.enter .login {
+    background-color: purple;
+    color: white;
+    cursor: pointer;
+    border: 2px inset;
+    margin-top:15px;
+    height:40px;
+    font-size:15px;
+    box-sizing: border-box;
+    padding-right:40px;
+    margin-right:20px;
+
+}
+
+.mainbody{
+    width:1300px;
+    background-color:white;
+    height:100%;
+    float:left;
+
+}
+.sidebar{
+    width:200px;
+    background-color:purple;
+    height:1000px;
+    float:right;
+    text-decoration: white;
+    font-size:30px;
+}
+
+

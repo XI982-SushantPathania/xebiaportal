@@ -1,0 +1,96 @@
+*
+{
+    margin:0 px auto;
+}
+.left{
+    margin-top:-10px;
+    background-color:purple;
+    height:700px;
+    width:200px;
+    box-sizing:border-box;
+    float:left;
+}
+.right{
+    float:right;
+    width:1100px;
+
+}
+.address{
+ border:none;
+border-bottom:1px solid;
+width:1100px;
+}
+.details{
+border:none;
+width:1100px;
+color:purple;
+}
+::placeholder{
+    color:purple;
+}
+.Edit{
+    margin-top:10px;
+    margin-left:40px;
+    float:right;
+    background-color: purple;
+    width:70px;
+    border:none;
+    color:white;
+    padding-right:30 px;
+}
+.search{
+    width:10 px;
+    height:40px;
+    padding-left:0px;
+    margin-left:12px;
+    margin-top:0px;
+    text-align:center;
+}
+.Eid{
+    padding-left:100px;
+    margin-top:30px;
+    margin-right:240px;
+    border:none;
+    border-bottom: 1px solid;
+  }
+  .L1{
+      color:purple;
+       background-color:lightgray;
+  } 
+  .mail{
+         margin-top:30px;
+         border:none;
+         border-bottom:1px solid;
+         padding-left:100px;
+         margin-right:60px;
+         
+          }
+  .L2{
+    color:purple;
+    background-color:lightgray;
+  }
+  .submit{
+      float:right;
+      margin-top:30px;
+      margin-right:10px;
+  }
+  .save{
+      background-color: purple;
+      width:50px;
+      border:none;
+      color:white;
+      padding-right:30 px;
+  }
+  .submit1{
+    float:right;
+    margin-top:100px;
+    margin-right:10px
+
+  }.save1{
+    background-color: purple;
+    width:50px;
+    border:none;
+    color:white;
+    padding-right:30 px;
+  }
+  
